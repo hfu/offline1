@@ -1,0 +1,22 @@
+{
+  "name": "offline1",
+  "version": "1.0.0",
+  "description": "testing mbtiles-offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/offline1.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/offline1/issues"
+  },
+  "homepage": "https://github.com/hfu/offline1#readme",
+  "dependencies": {
+    "mbtiles-offline": "^4.0.1"
+  }
+}
